@@ -6,7 +6,7 @@ Poddubny Mikhail
 ----
 
 --------------------------------------------------------------------------------   -------------------------------------------------------------------------------
-<i class="fa fa-home fa-1x"></i> Ukraine, Kharkiv                                  <i class="fa fa-linkedin fa-1x"></i> [linkedin.com/in/poddubny-mikhail](www.linkedin.com/in/poddubny-mikhail)
+<i class="fa fa-home fa-1x"></i> Ukraine, Kharkiv                                  <i class="fa fa-linkedin fa-1x"></i> [linkedin.com/in/poddubny-mikhail](https://linkedin.com/in/poddubny-mikhail)
 <i class="fa fa-envelope fa-1x"></i> [xminuz@gmail.com](mailto:xminuz@gmail.com)   <i class="fa fa-github fa-1x"></i> [github.com/m1nuz](https://github.com/m1nuz)
 <i class="fa fa-phone fa-1x"></i> +380958914905                                    <i class="fa fa-gitlab fa-1x"></i> [gitlab.com/m1nuz](https://gitlab.com/m1nuz)
 <i class="fa fa-skype fa-1x"></i> xminuz                                           <i class="fa fa-clock-o fa-1x"></i> 29 years old
@@ -18,15 +18,15 @@ Poddubny Mikhail
 Education
 ---------
 
-2010-2014
+2010-2012
 :   **MSc in Computer Science**; National Technical University “Kharkiv Polytechnic Institute”
 
-    *Speciality - System Programming*
+    *System Programming*
 
-2007-2010
+2006-2010
 :   **BSc in Computer Science**; National Technical University “Kharkiv Polytechnic Institute”
 
-    *Speciality - System Programming*
+    *System Programming*
 
 Experience
 ----------
@@ -72,14 +72,13 @@ Dev tools
 Revision control 
 :   **Subversion, Git**
 
-Human Languages
-:   Russian, Ukranian, English(Pre-Intermediate)
-
-
 Open Source
 :   [github.com/m1nuz/launchdb](https://github.com/m1nuz/launchdb) Database creation & supporting tools  
     [github.com/m1nuz/ironforge](https://github.com/m1nuz/ironforge) Modern OpenGL game engine  
     [github.com/m1nuz/glcoregen](https://github.com/m1nuz/glcoregen) OpenGL core profile and extentions loader generator
+
+Human Languages
+:   Russian, Ukranian, English (Pre-Intermediate)
 
 Interests
 ---------
@@ -92,5 +91,7 @@ Science
 OS
 :   Operating System Design/Kernel Architecture, Linux.
 
-> [link on this cv](https://github.com/m1nuz/cv/blob/master/poddubny-developer-cv.pdf)
+<div class="footer">
+[https://github.com/m1nuz/cv/blob/master/poddubny-developer-cv.pdf](https://github.com/m1nuz/cv/blob/master/poddubny-developer-cv.pdf)
+</div>
 

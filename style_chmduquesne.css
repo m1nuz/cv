@@ -59,11 +59,11 @@ h3 {
 dt {
     float: left;
     clear: left;
-    width: 18%;
+    width: 20%;
     /*text-align: justify;*/
 }
 dd {
-    margin-left: 18%;
+    margin-left: 20%;
     text-align: justify;
 }
 p {
@@ -95,5 +95,11 @@ hr {
 
 table {
     width: 100%;
+}
+
+.footer {
+    text-align: center;
+    color: gray;
+    font-size: 11px;
 }
 </style>
