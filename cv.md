@@ -31,7 +31,7 @@ Education
 Experience
 ----------
 
-**Jan 2016 - Oct 2017: Chameleon Soft. Software developer**
+**Jan 2016 - Now: Chameleon Soft. Software developer**
 
 Skills improved in
 :   GUI plugins devleop, Cash Software devleop, loyalty subsystem devleop, POS terminal integration, Network daemon develop, Multithread programming, Database architecture, Refactoring, Supporting large code base.
