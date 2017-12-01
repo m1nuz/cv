@@ -34,7 +34,7 @@ Experience
 **Jan 2016 - Now: Chameleon Soft. Software developer**
 
 Skills improved in
-:   GUI plugins devleop, Cash Software devleop, loyalty subsystem devleop, POS terminal integration, Network daemon develop, Multithread programming, Database architecture, Refactoring, Supporting large code base.
+:   GUI plugins develop, Cash Software develop, loyalty subsystem develop, POS terminal integration, Network daemon develop, Multithread programming, Database architecture, Refactoring, Supporting large code base.
 
 Technologies, Libraries and other
 :   C++, Qt, D-Bus, IPC, SQLite, PostgreSQL, Cash registers protocols(MG-V545T, ICS-M510 and others), POS terminal protocols(BPOS, TRPOSX), RPC, libevent, JSON, XML.
